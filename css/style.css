@@ -716,91 +716,6 @@ li._pb {
   border-radius: 20px;
 }
 
-/* .ecosystem__foot-img picture {
-  position: relative;
-} */
-
-/* .ecosystem__foot-img picture::before {
-  content: "";
-  position: absolute;
-  border-radius: 20px;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.8);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-weight: 500;
-  font-size: 12px;
-  line-height: 1.25;
-  color: #fff;
-  text-align: center;
-} */
-
-/* .tab-1:nth-child(1)::before {
-  content: "SberBoom Home";
-}
-.tab-1:nth-child(2)::before {
-  content: "Умный хаб ";
-}
-.tab-1:nth-child(3)::before {
-  content: "Умный датчик движения ";
-}
-.tab-1:nth-child(4)::before {
-  content: "Умный датчик протечки";
-}
-.tab-1:nth-child(5)::before {
-  content: "Терморегулятор ";
-}
-.tab-1:nth-child(6)::before {
-  content: "Умная розетка ";
-}
-.tab-1:nth-child(7)::before {
-  content: "ТУмное реле ";
-}
-.tab-1:nth-child(8)::before {
-  content: "Умные лампочки  ";
-}
-
-.tab-2:nth-child(1)::before {
-  content: "SberBoom Home";
-}
-.tab-2:nth-child(2)::before {
-  content: "Умный хаб ";
-}
-.tab-2:nth-child(3)::before {
-  content: "Датчик температуры и влажности ";
-}
-.tab-2:nth-child(4)::before {
-  content: "Умный датчик движения ";
-}
-.tab-2:nth-child(5)::before {
-  content: "Умный датчик открытия ";
-}
-.tab-2:nth-child(6)::before {
-  content: "Умный датчик протечки";
-}
-.tab-2:nth-child(7)::before {
-  content: "Терморегулятор";
-}
-.tab-2:nth-child(8)::before {
-  content: "Умная кнопка ";
-}
-.tab-2:nth-child(9)::before {
-  content: "Умная розетка ";
-}
-.tab-2:nth-child(10)::before {
-  content: "Умное реле";
-}
-.tab-2:nth-child(11)::before {
-  content: "Умные лампочки ";
-}
-.tab-2:nth-child(12)::before {
-  content: "Умный ночник Sber";
-} */
-
 @media (min-width: 991.98px) {
   .ecosystem__foot-img::after {
     content: "";
@@ -865,43 +780,43 @@ li._pb {
 }
 
 .bg-1 {
-  background: url("../img/tabs-img/img-1.jpg") 10% 0/1920px auto no-repeat;
+  background: url("../img/tabs-img/img-1.webp") 10% 0/1920px auto no-repeat;
 }
 @media (max-width: 1600px) {
   .bg-1 {
-    background: url("../img/tabs-img/img-1.jpg") 10% 0/1600px 100% no-repeat;
+    background: url("../img/tabs-img/img-1.webp") 10% 0/1600px 100% no-repeat;
   }
 }
 @media (max-width: 767.98px) {
   .bg-1 {
-    background: url("../img/tabs-img/img-1.jpg") 10% 0 / auto 100% no-repeat;
+    background: url("../img/tabs-img/img-1.webp") 10% 0 / auto 100% no-repeat;
   }
 }
 
 .bg-2 {
-  background: url("../img/tabs-img/img-2.jpg") 50% 0 / auto 100% no-repeat;
+  background: url("https://tikud11.github.io/timur-kudzaev.github.io/img/tabs-img/img-2.webp") 50% 0 / auto 100% no-repeat;
 }
 @media (max-width: 767.98px) {
   .bg-2 {
-    background: url("../img/tabs-img/img-2.jpg") 50% 0 / auto 100% no-repeat;
+    background: url("https://tikud11.github.io/timur-kudzaev.github.io/img/tabs-img/img-2.webp") 50% 0 / auto 100% no-repeat;
   }
 }
 
 .bg-3 {
-  background: url("../img/tabs-img/img-3.jpg") 50% 0 / auto 100% no-repeat;
+  background: url("https://tikud11.github.io/timur-kudzaev.github.io/img/tabs-img/img-3.webp") 50% 0 / auto 100% no-repeat;
 }
 @media (max-width: 767.98px) {
   .bg-3 {
-    background: url("../img/tabs-img/img-3.jpg") 50% 0 / auto 100% no-repeat;
+    background: url("https://tikud11.github.io/timur-kudzaev.github.io/img/tabs-img/img-3.webp") 50% 0 / auto 100% no-repeat;
   }
 }
 
 .bg-4 {
-  background: url("../img/tabs-img/img-4.jpg") 0 0/1920px 100% no-repeat;
+  background: url("https://tikud11.github.io/timur-kudzaev.github.io/img/tabs-img/img-4.webp") 0 0/1920px 100% no-repeat;
 }
 @media (max-width: 767.98px) {
   .bg-4 {
-    background: url("../img/tabs-img/img-4.jpg") 10% 0 / auto 100% no-repeat;
+    background: url("https://tikud11.github.io/timur-kudzaev.github.io/img/tabs-img/img-4.webp") 10% 0 / auto 100% no-repeat;
   }
 }
 
